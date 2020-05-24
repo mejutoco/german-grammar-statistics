@@ -2,6 +2,7 @@
 
 [Top 500,000 words in german with gender](german_top_50000_gender.csv).
 The word frequency was taken from Wikipedia sets for different languages.
+I believe the german one uses this underneath (https://invokeit.wordpress.com/frequency-word-lists/)
 The gender was extracted querying different dictionaries for the word.
 
 ## Format
@@ -30,4 +31,5 @@ The [csv](german_top_50000_gender.csv) has 2 columns with word and gender, which
 ## Usage
 
 This dataset was used for the article (TODO: link article).
-It is free to use for any purpose. Enjoy.
+It is free to user under the Creative Commons – Attribution / ShareAlike 3.0 license. (see [License](LICENSE))
+Enjoy.
