@@ -11,6 +11,22 @@ The [csv](german_top_50000_gender.csv) has 2 columns with word and gender, which
   - n: Neutral
   - none: prepositions, conjunctions, etc. do not have a gender
   
+|       |          |
+|-------|----------|
+| ihm   |	none   |
+| koennen   |	none   |
+| ich   |	n   |
+| sie   |	none   |
+| das   |	none   |
+| ist   |	n   |
+| du   |	none   |
+| nicht   |	none   |
+| die   |	none   |
+| und   |	none   |
+| es   |	n   |
+| ...   |	...   |
+
+  
 ## Usage
 
 This dataset was used for the article (TODO: link article).
