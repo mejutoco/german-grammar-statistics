@@ -30,6 +30,6 @@ The [csv](german_top_50000_gender.csv) has 2 columns with word and gender, which
   
 ## Usage
 
-This dataset was used for the article (TODO: link article).
+This dataset was used for the [article about grammar statistics in german](https://mejuto.co/statistical-grammar-guessing-a-germans-nouns-gender.html)
 It is free to user under the Creative Commons – Attribution / ShareAlike 3.0 license. (see [License](LICENSE))
 Enjoy.
